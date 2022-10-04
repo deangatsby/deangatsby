@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deangatsby
+- 👀 I’m interested in financial markets, and now coding. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on a short to mid-term quant trading system. 
+- 📫 How to reach me - @deangatsby on Twitter. 
